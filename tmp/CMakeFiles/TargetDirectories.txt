@@ -1,0 +1,4 @@
+/home/ssofixd/Documents/C++/socket_server/tmp/CMakeFiles/server.dir
+/home/ssofixd/Documents/C++/socket_server/tmp/CMakeFiles/client.dir
+/home/ssofixd/Documents/C++/socket_server/tmp/CMakeFiles/edit_cache.dir
+/home/ssofixd/Documents/C++/socket_server/tmp/CMakeFiles/rebuild_cache.dir
